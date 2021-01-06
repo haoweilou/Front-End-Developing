@@ -1,1 +1,2 @@
-alert('很高兴认识你\nnice to meet you')
+alert('Welcome to Haowei\'s web page')
+alert('nice to meet you')

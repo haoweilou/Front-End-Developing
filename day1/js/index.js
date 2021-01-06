@@ -1,0 +1,1 @@
+alert('很高兴认识你\nnice to meet you')
